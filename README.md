@@ -1,5 +1,5 @@
 # IRIS-DATASET-ANALYSIS-DECISION-TREE-CLASSIFIER
-IRIS Dataset is used for Exploratory Analysis and Decision Tree classifier is used to classify, experimenting with different parameters for performance analysis.\
+IRIS Dataset is used for Exploratory Analysis and Decision Tree classifier is used to classify, experimenting with different parameters for performance analysis.
 
 __Libraries used:__\
 sklearn  for DecisionTreeClassifier\
@@ -13,7 +13,7 @@ __Outputs:__\
 Depth of learnt tree\
 Number of leaf nodes of learnt tree\
 Training accuracy of classifier\
-Test accuracy using classifier\
+Test accuracy using classifier
 
 __Pruning results for :__\
 __case1:__ reducing max_depth\
